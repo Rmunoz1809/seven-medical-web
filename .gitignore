@@ -1,0 +1,8 @@
+# Borradores y material de trabajo (no forman parte de la web)
+_PARA-BORRAR/
+Pagina web Archivos/
+
+# Configuración local
+.claude/
+images/.claude/
+.DS_Store
